@@ -1,0 +1,14 @@
+*Instalando package
+
+yarn add autoprefixer postcss react-beautiful-dnd react-ion-icons styled-components react-router react-router-dom tailwindcss
+
+*Ver el host
+
+yarn run dev --host
+
+npx tailwindcss init -p
+
+nombre, edad, carrera, exp, lugar
+
+
+
