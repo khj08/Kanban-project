@@ -10,5 +10,8 @@ npx tailwindcss init -p
 
 nombre, edad, carrera, exp, lugar
 
+yarn add react-ionicons - para el icon ode PersonOutline
+
+
 
 

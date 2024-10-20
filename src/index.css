@@ -34,14 +34,10 @@ body::before {
   width: 8px;
   height: 6px;
 }
-
 ::-webkit-scrollbar *{
   background: transparent;
 }
-
 ::-webkit-scrollbar {
   background: #f59e0b !important;
   border-radius: 5px;
 }
-
-
